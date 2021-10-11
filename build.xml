@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Demo Ant" default="info">
+	<target name="info">
+		<echo>Demo ANT - Welcome to the Demo</echo>
+	</target>
+</project>
